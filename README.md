@@ -26,14 +26,5 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singh-daman&show_icons=true&theme=tokyonight" alt="singh-daman stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=singh-daman&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singh-daman&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
